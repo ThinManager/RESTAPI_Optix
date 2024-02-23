@@ -21,3 +21,8 @@ Almost all of the configurable elements of ThinManager are exposed through the R
 
 This Optix demo application also demonstrates how to make Logix PinPoint calls through the ThinManager REST API from Optix through the existing AlarmsPage.  The TMLogixPinPoint NetLogic utilizes the ACD file included in the ProjectFiles/LogixCode folder of the uploaded Optix application.  The C# code is looking for the Oven_and_BoilerDemo_L85_Echo.ACD file in a c:\Lab Files folder.
 
+![2024-02-23_9-43-51](https://github.com/ThinManager/RESTAPI_Optix/assets/143208945/60e70f81-5b14-4cf8-907f-cf4ce9e410eb)
+
+![2024-02-23_9-48-49](https://github.com/ThinManager/RESTAPI_Optix/assets/143208945/fa48f20d-e147-4ce1-90fb-c02401ad638d)
+
+![2024-02-23_9-49-59](https://github.com/ThinManager/RESTAPI_Optix/assets/143208945/d1187de4-c7d3-4b1e-83ff-e0378ab3ca66)
