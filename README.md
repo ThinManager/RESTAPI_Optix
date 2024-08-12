@@ -26,3 +26,15 @@ This Optix demo application also demonstrates how to make Logix PinPoint calls t
 ![2024-02-23_9-48-49](https://github.com/ThinManager/RESTAPI_Optix/assets/143208945/fa48f20d-e147-4ce1-90fb-c02401ad638d)
 
 ![2024-02-23_9-49-59](https://github.com/ThinManager/RESTAPI_Optix/assets/143208945/d1187de4-c7d3-4b1e-83ff-e0378ab3ca66)
+
+### Disclaimer
+
+Rockwell Automation maintains these repositories as a convenience to you and other users. Rockwell Automation reserves the right at any time and for any reason to refuse access, to edit, or remove content from this Repository. You acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
+
+The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example code based on your project/needs while observing the highest quality and safety standards.
+
+The following list, while not inclusive, are pieces of software that require a paid license or subcription to run in production:
+- ThinManager
+- ThinManager Logix PinPoint
+- FactoryTalk® Optix
+- FactoryTalk® View SE
